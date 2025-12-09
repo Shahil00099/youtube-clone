@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #0f111a; /* hacker theme background */
+  color: #00ff99;
+}

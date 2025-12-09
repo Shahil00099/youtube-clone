@@ -1,0 +1,15 @@
+.layout {
+  display: flex;
+}
+
+/* Main content area */
+.main-content {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  background-color: #0f111a; /* same as Navbar & Sidebar */
+  min-height: 100vh;
+  color: #00ff99; /* optional: default text color for hacker theme */
+}

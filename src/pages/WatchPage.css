@@ -1,0 +1,36 @@
+.watch-container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.video-player {
+  flex: 2;
+  background-color: #0f111a;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.video-player h2 {
+  color: #00ff99;
+  margin-top: 10px;
+}
+
+.video-player .channel {
+  color: #aaa;
+  font-size: 14px;
+}
+
+.recommended {
+  flex: 1;
+}
+
+.recommended h3 {
+  color: #00ff99;
+  margin-bottom: 10px;
+}
+
+.recommended-videos {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,30 @@
+/* General */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #0f111a; /* dark navy */
+  color: #00ff99;           /* neon green */
+}
+
+/* Scrollbar (optional cool hacker vibe) */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #111622;
+}
+::-webkit-scrollbar-thumb {
+  background: #00ff99;
+  border-radius: 4px;
+}
+
+/* Links / buttons */
+a, button {
+  color: #00ff99;
+  text-decoration: none;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #00ff99;
+  color: #0f111a;
+}

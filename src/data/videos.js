@@ -1,31 +1,42 @@
 const videos = [
   {
     id: 1,
-    youtubeId: "ysz5S6PUM-U", // real YouTube video ID
-    thumbnail: "https://i.ytimg.com/vi/ysz5S6PUM-U/hqdefault.jpg",
-    title: "Learning React in 10 Minutes",
-    channel: "Tech Channel",
+    title: "EKKAKI Chapter 1 ",
+    
+    thumbnail: "https://img.youtube.com/vi/jhBAUzoXj_A/hqdefault.jpg",
+    url: "https://www.youtube.com/embed/jhBAUzoXj_A"
   },
+
   {
     id: 2,
-    youtubeId: "ScMzIvxBSi4",
-    thumbnail: "https://i.ytimg.com/vi/ScMzIvxBSi4/hqdefault.jpg",
-    title: "Hacker Theme UI Design",
-    channel: "CodeMaster",
+    youtubeId: "PNLGW3GoVYI",
+    thumbnail: "https://i.ytimg.com/vi/PNLGW3GoVYI/hqdefault.jpg",
+    title: "Die With A Smile ",
+   
+    url: "https://www.youtube.com/watch?v=PNLGW3GoVYI&list=RDPNLGW3GoVYI&start_radio=1"
   },
   {
     id: 3,
-    youtubeId: "aqz-KE-bpKQ",
-    thumbnail: "https://i.ytimg.com/vi/aqz-KE-bpKQ/hqdefault.jpg",
-    title: "Build YouTube Clone",
-    channel: "Dev Tutorials",
+    youtubeId: "lp-EO5I60KA",
+    thumbnail: "https://i.ytimg.com/vi/lp-EO5I60KA/hqdefault.jpg",
+    title: "Thinking Out Loud",
+    
+    url: "https://www.youtube.com/watch?v=lp-EO5I60KA&list=RDlp-EO5I60KA&start_radio=1"
   },
   {
-    id: 4,
-    youtubeId: "1wZw8p4KpNA",
-    thumbnail: "https://i.ytimg.com/vi/1wZw8p4KpNA/hqdefault.jpg",
-    title: "React Components Explained",
-    channel: "Frontend Guru",
+  id: 4,
+  youtubeId: "VHAK-gU9gi0",
+  thumbnail: "https://img.youtube.com/vi/VHAK-gU9gi0/hqdefault.jpg",
+  title: "Bye Bye Bye Opening Scene",
+  url: "https://www.youtube.com/watch?v=VHAK-gU9gi0",
+  
+},
+  {
+    id: 5,
+    youtubeId: "dGcsHMXbSOA",   
+    thumbnail: "https://i.ytimg.com/vi/dGcsHMXbSOA/hqdefault.jpg",
+    title: "Learn JavaScript in 1 Hour",
+   
   },
 ];
 

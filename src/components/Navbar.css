@@ -8,8 +8,8 @@
 
 /* Make logo bigger */
 .logo {
-  height: 160px; /* was 40px, now bigger */
-  width: 150px;
+  height: 40px; /* was 40px, now bigger */
+  
   margin-right: 20px;
 }
 
